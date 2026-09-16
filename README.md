@@ -93,7 +93,7 @@ bank-management-system/
 │
 └── docs/
     └── project-report.pdf
-
+```
 ---
 ⚙️ Requirements
 
@@ -224,7 +224,7 @@ After replacing your README with the above, run:
 git add README.md
 git commit -m "Update README"
 git push
-
+```
 ---
 ## 👨‍💻 Author
 
@@ -241,3 +241,5 @@ B.Tech AI & ML
 
 --- 
 <img width="1472" height="850" alt="Screenshot 2026-09-16 192318" src="https://github.com/user-attachments/assets/a87f3313-40ed-490e-aef4-a598ef8a73a5" />
+<img width="1398" height="644" alt="Screenshot 2026-09-16 194527" src="https://github.com/user-attachments/assets/951b3ba4-09f5-4fc2-b83f-f05ab63daf56" />
+
