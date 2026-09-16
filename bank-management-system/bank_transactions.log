@@ -1,0 +1,14 @@
+Sept 16, 2026 7:32:22 PM bank.service.BankService loadAccountsFromDatabase
+WARNING: Could not load accounts from database (is MySQL running / schema created?): Access denied for user 'root'@'localhost' (using password: YES)
+Sept 16, 2026 7:39:21 PM bank.service.BankService loadAccountsFromDatabase
+WARNING: Could not load accounts from database (is MySQL running / schema created?): Access denied for user 'root'@'localhost' (using password: YES)
+Sept 16, 2026 7:42:08 PM bank.service.BankService createAccount
+INFO: Created account 1001 for 0
+Sept 16, 2026 7:43:48 PM bank.service.BankService createAccount
+INFO: Created account 10001 for Dhanya
+Sept 16, 2026 7:44:43 PM bank.service.BankService recordTransaction
+INFO: DEPOSIT of 3000.00 on 10001 (balance after: 5000.00)
+Sept 16, 2026 7:45:21 PM bank.service.BankService recordTransaction
+INFO: WITHDRAWAL of 1000.00 on 10001 (balance after: 4000.00)
+Sept 16, 2026 7:45:56 PM bank.service.BankService transfer
+INFO: Transferred 500.00 from 10001 to 1001
