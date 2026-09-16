@@ -240,6 +240,20 @@ B.Tech AI & ML
 -Project source code, schema.sql, README.md, and statement.md.
 
 --- 
-<img width="1472" height="850" alt="Screenshot 2026-09-16 192318" src="https://github.com/user-attachments/assets/a87f3313-40ed-490e-aef4-a598ef8a73a5" />
-<img width="1398" height="644" alt="Screenshot 2026-09-16 194527" src="https://github.com/user-attachments/assets/951b3ba4-09f5-4fc2-b83f-f05ab63daf56" />
+<img width="1940" height="828" alt="Screenshot 2026-09-16 195013" src="https://github.com/user-attachments/assets/9078555b-95a8-4bd9-abd4-91625bbc8a00" />
+<img width="816" height="418" alt="Screenshot 2026-09-16 194938" src="https://github.com/user-attachments/assets/901de710-822d-4294-8d84-fcba2f8e5555" />
+<img width="1220" height="526" alt="Screenshot 2026-09-16 194721" src="https://github.com/user-attachments/assets/ab63e90a-0be0-4df7-a9b2-74975ed2caac" />
+<img width="2046" height="634" alt="Screenshot 2026-09-16 194659" src="https://github.com/user-attachments/assets/fa921b5b-d398-485d-a57c-8932bb514b63" />
+<img width="1316" height="524" alt="Screenshot 2026-09-16 194633" src="https://github.com/user-attachments/assets/291e5219-cb9a-4411-b470-c286b49a361e" />
+<img width="1324" height="678" alt="Screenshot 2026-09-16 194605" src="https://github.com/user-attachments/assets/1777e952-578e-4211-a2bf-0541df51697b" />
+<img width="1398" height="644" alt="Screenshot 2026-09-16 194527" src="https://github.com/user-attachments/assets/fc684506-752c-49e8-84a3-2bb8d1ad5f1d" />
+<img width="1348" height="640" alt="Screenshot 2026-09-16 194459" src="https://github.com/user-attachments/assets/85b35508-ef6d-400e-8657-ab8cc9d47fa8" />
+<img width="1306" height="922" alt="Screenshot 2026-09-16 194359" src="https://github.com/user-attachments/assets/4c9888d3-dbc0-495d-b585-4911dd7337c6" />
+<img width="2338" height="786" alt="Screenshot 2026-09-16 193934" src="https://github.com/user-attachments/assets/f578bae3-922c-4851-b3b3-d731c011a6be" />
+<img width="766" height="658" alt="Screenshot 2026-09-16 193235" src="https://github.com/user-attachments/assets/f798927c-2fd2-4cb5-9ae4-942aba4d795e" />
+<img width="1498" height="828" alt="Screenshot 2026-09-16 192910" src="https://github.com/user-attachments/assets/914f93b2-9ab9-4b24-95f9-e45a3f53cb73" />
+<img width="1870" height="642" alt="Screenshot 2026-09-16 192801" src="https://github.com/user-attachments/assets/d4a0de14-858e-4ae6-a650-ed29eb65ce81" />
+<img width="1372" height="454" alt="Screenshot 2026-09-16 192720" src="https://github.com/user-attachments/assets/44d6887d-e866-45fd-b683-2e57c34ede0a" />
+<img width="1472" height="850" alt="Screenshot 2026-09-16 192318" src="https://github.com/user-attachments/assets/9ca02626-c994-4898-92f0-61f4249944d1" />
+
 
