@@ -254,6 +254,6 @@ B.Tech AI & ML
 <img width="1498" height="828" alt="Screenshot 2026-09-16 192910" src="https://github.com/user-attachments/assets/914f93b2-9ab9-4b24-95f9-e45a3f53cb73" />
 <img width="1870" height="642" alt="Screenshot 2026-09-16 192801" src="https://github.com/user-attachments/assets/d4a0de14-858e-4ae6-a650-ed29eb65ce81" />
 <img width="1372" height="454" alt="Screenshot 2026-09-16 192720" src="https://github.com/user-attachments/assets/44d6887d-e866-45fd-b683-2e57c34ede0a" />
-<img width="1472" height="850" alt="Screenshot 2026-09-16 192318" src="https://github.com/user-attachments/assets/9ca02626-c994-4898-92f0-61f4249944d1" />
+
 
 
