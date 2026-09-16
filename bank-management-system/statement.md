@@ -75,7 +75,7 @@ The statement demonstrates how the Bank Account Management System maintains tran
 
 ## 👨‍💻 Project Information
 
--Project: Bank Account Management System
--Technology: Java + JDBC + MySQL
--Interface: Console-based
--Purpose: Educational / Programming in Java Project
+- Project: Bank Account Management System
+- Technology: Java + JDBC + MySQL
+- Interface: Console-based
+- Purpose: Educational / Programming in Java Project
